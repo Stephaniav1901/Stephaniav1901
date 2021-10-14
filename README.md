@@ -21,6 +21,7 @@
  ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
   <br>🔮 Machine Learning
   📊 Data Visualization
+  ⚙️Advanced Excel + VBA
 
  
  - ⚙️ Tenho conhecimento básico:
