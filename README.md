@@ -24,7 +24,7 @@
   ⚙️Advanced Excel + VBA
 
  
- - ⚙️ Tenho conhecimento básico:
+ - ⚙️ Basic knowledge:
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
   <br>
 
