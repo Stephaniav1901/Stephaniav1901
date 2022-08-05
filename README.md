@@ -6,7 +6,7 @@
 * 📚 Studying Data Science - UniRitter.
 * 👩‍🎓 Bachelor of Economics - UFRGS.
 
-<b>🚀 Linguagens e Ferramentas</b>:
+<b>🚀 Languages and Tools</b>:
 
  - 💻 Skills:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
