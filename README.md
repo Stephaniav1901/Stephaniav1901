@@ -3,7 +3,6 @@
 ## Who am I? 
 
 * 👩‍💻 Junior Data Scientist 🥰.
-* 📚 Studying Data Science - UniRitter.
 * 👩‍🎓 Bachelor of Economics - UFRGS.
 
 <b>🚀 Languages and Tools</b>:
