@@ -2,7 +2,7 @@
 
 ## Who am I? 
 
-* 👩‍💻 Junior Data Scientist 🥰.
+* 👩‍💻 Data Scientist 🥰.
 * 👩‍🎓 Bachelor of Economics - UFRGS.
 
 <b>🚀 Languages and Tools</b>:
@@ -18,6 +18,8 @@
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
+ ![Databricks](https://github.com/Stephaniav1901/Stephaniav1901/assets/49068355/8b46a40f-7025-4667-9dda-0f124865d007)
+ ![Dataiku](https://github.com/Stephaniav1901/Stephaniav1901/assets/49068355/fa23c67e-5690-4fea-b2f6-3309d49b9a42)
   <br>🔮 Machine Learning
   📊 Data Visualization
   ⚙️Advanced Excel + VBA
